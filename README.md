@@ -98,7 +98,9 @@ The **Dynamic Retail Dashboard** is an innovative excel tool designed to visuali
    - Sort the table in descending order of Profit.
    - Create a **Bar Chart** to display the category-wise profit.
    - Use **Slicers** for interactive filtering by region or year.
-   - ![image](https://github.com/user-attachments/assets/02c9c20d-7886-4d6f-8da7-d82ab1a8f293)
+     
+   - ![image](https://github.com/user-attachments/assets/605460a2-341c-4436-a2cc-fa594260d5e7)
+
 
 
 ---
