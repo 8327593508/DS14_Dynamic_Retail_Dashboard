@@ -159,7 +159,9 @@ The **Dynamic Retail Dashboard** is an innovative excel tool designed to visuali
    - Use the same **Pivot Table** but sort it in ascending order of Sales.
    - Filter the data to display only the **Bottom 5 Subcategories**.
    - Create a **Column Chart** with contrasting colors to emphasize low-performing subcategories.
-   - ![image](https://github.com/user-attachments/assets/deb29c4b-54cf-438c-98cf-41ce963ffb9c)
+     
+   - ![image](https://github.com/user-attachments/assets/70544dd4-9e6f-4fbf-b6e3-c4b924747aaa)
+
 
 
 
