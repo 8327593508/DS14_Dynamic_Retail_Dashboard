@@ -84,7 +84,7 @@ The **Dynamic Retail Dashboard** is an innovative excel tool designed to visuali
    - Create a **Line Chart** to display trends.
    - Apply **Slicers** to filter data dynamically by category, market, or region.
      
-   - ![image](https://github.com/user-attachments/assets/a0da3de6-23c8-4018-a066-362cfe252f9e)
+     ![image](https://github.com/user-attachments/assets/a0da3de6-23c8-4018-a066-362cfe252f9e)
 
 
 
@@ -100,7 +100,7 @@ The **Dynamic Retail Dashboard** is an innovative excel tool designed to visuali
    - Create a **Bar Chart** to display the category-wise profit.
    - Use **Slicers** for interactive filtering by region or year.
      
-   - ![image](https://github.com/user-attachments/assets/605460a2-341c-4436-a2cc-fa594260d5e7)
+     ![image](https://github.com/user-attachments/assets/605460a2-341c-4436-a2cc-fa594260d5e7)
 
 
 
@@ -115,7 +115,7 @@ The **Dynamic Retail Dashboard** is an innovative excel tool designed to visuali
    - Use a **Pie** or **Donut Chart** to present the share visually.
    - Add **Labels** to show percentage values dynamically.
      
-   - ![image](https://github.com/user-attachments/assets/0da1fdd7-5a45-49d0-95b9-1a4692797920)
+     ![image](https://github.com/user-attachments/assets/0da1fdd7-5a45-49d0-95b9-1a4692797920)
 
 
 
@@ -131,7 +131,7 @@ The **Dynamic Retail Dashboard** is an innovative excel tool designed to visuali
    - Use **Conditional Formatting** or a **Heatmap** to highlight top-performing countries.
    - Alternatively, use a **Geographic Map Chart** to visualize sales geographically.
      
-   - ![image](https://github.com/user-attachments/assets/e7c76599-1461-4b26-b334-673693e61e7c)
+     ![image](https://github.com/user-attachments/assets/e7c76599-1461-4b26-b334-673693e61e7c)
 
 
 
@@ -146,7 +146,7 @@ The **Dynamic Retail Dashboard** is an innovative excel tool designed to visuali
    - Filter the data to display only the **Top 5 Subcategories**.
    - Create a **Column Chart** to visualize the results.
      
-   - ![image](https://github.com/user-attachments/assets/6a7fb66b-2858-4626-8705-b7814261df01)
+     ![image](https://github.com/user-attachments/assets/6a7fb66b-2858-4626-8705-b7814261df01)
 
 
 
@@ -160,7 +160,7 @@ The **Dynamic Retail Dashboard** is an innovative excel tool designed to visuali
    - Filter the data to display only the **Bottom 5 Subcategories**.
    - Create a **Column Chart** with contrasting colors to emphasize low-performing subcategories.
      
-   - ![image](https://github.com/user-attachments/assets/70544dd4-9e6f-4fbf-b6e3-c4b924747aaa)
+     ![image](https://github.com/user-attachments/assets/70544dd4-9e6f-4fbf-b6e3-c4b924747aaa)
 
 
 
@@ -177,7 +177,7 @@ The **Dynamic Retail Dashboard** is an innovative excel tool designed to visuali
    - Create a **Line Chart** to show yearly trends.
    - Use **Slicers** to filter the data by category, region, or segment.
      
-   - ![image](https://github.com/user-attachments/assets/a93bbc89-9fa3-4563-8b94-70c103e1b1c9)
+     ![image](https://github.com/user-attachments/assets/a93bbc89-9fa3-4563-8b94-70c103e1b1c9)
 
 
 
@@ -217,7 +217,7 @@ The repository includes:
    - Visual representations for each solved problem.
    - Screenshots of the final dashboard with all components in action.
      
-   - ![image](https://github.com/user-attachments/assets/2b846da6-37e0-434d-b7a7-a8cdacfb2ebc)
+     ![image](https://github.com/user-attachments/assets/2b846da6-37e0-434d-b7a7-a8cdacfb2ebc)
 
 
 
