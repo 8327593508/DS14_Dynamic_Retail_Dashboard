@@ -216,7 +216,9 @@ The **Dynamic Retail Dashboard** helps businesses:
 The repository includes:
    - Visual representations for each solved problem.
    - Screenshots of the final dashboard with all components in action.
-   - ![image](https://github.com/user-attachments/assets/6da4b9dc-4397-4831-beec-eb15f856a2b3)
+     
+   - ![image](https://github.com/user-attachments/assets/2b846da6-37e0-434d-b7a7-a8cdacfb2ebc)
+
 
 
 ---
