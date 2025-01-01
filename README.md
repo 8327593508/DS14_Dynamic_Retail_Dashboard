@@ -129,7 +129,9 @@ The **Dynamic Retail Dashboard** is an innovative excel tool designed to visuali
    - Sort the table in descending order of Sales.
    - Use **Conditional Formatting** or a **Heatmap** to highlight top-performing countries.
    - Alternatively, use a **Geographic Map Chart** to visualize sales geographically.
-   - ![image](https://github.com/user-attachments/assets/1c338170-af2a-4b09-b35b-89848f5cd381)
+     
+   - ![image](https://github.com/user-attachments/assets/e7c76599-1461-4b26-b334-673693e61e7c)
+
 
 
 ---
