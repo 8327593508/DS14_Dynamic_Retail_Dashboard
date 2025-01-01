@@ -61,6 +61,9 @@ The **Dynamic Retail Dashboard** is an advanced Excel tool for visualizing and a
        ![image](https://github.com/user-attachments/assets/e80e3ce2-179e-4e78-b28c-20b752d56e24)
 
    - Use symbols to enhance readability in the KPI table (e.g., 💰 for Total Sales).
+   - 
+       ![image](https://github.com/user-attachments/assets/178db8e8-ca3c-4b3d-b966-faead1f05dcd)
+
 
 #### 2. **Trend Analysis (Sales & Profit)**
    - **Objective**: Track sales and profit trends over time.
