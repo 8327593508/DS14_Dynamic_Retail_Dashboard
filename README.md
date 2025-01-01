@@ -57,6 +57,7 @@ The **Dynamic Retail Dashboard** is an advanced Excel tool for visualizing and a
      - **Total Sales**: `=SUM(Sales)`
      - **Total Profit**: `=SUM(Profit)`
      - **Total Quantity**: `=SUM(Quantity)`
+       
        ![image](https://github.com/user-attachments/assets/e80e3ce2-179e-4e78-b28c-20b752d56e24)
 
    - Use symbols to enhance readability in the KPI table (e.g., 💰 for Total Sales).
